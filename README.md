@@ -15,7 +15,7 @@
 
 <br>
 
-[**🚀 Live Demo**](https://YOUR_USERNAME.github.io/vidyasetu) *(update this URL after deploying)* &nbsp;·&nbsp; [**🐛 Report a Bug**](https://github.com/YOUR_USERNAME/vidyasetu/issues/new?template=bug_report.md) &nbsp;·&nbsp; [**💡 Suggest a Scheme**](https://github.com/YOUR_USERNAME/vidyasetu/issues/new?template=scheme_suggestion.md)
+[**🐛 Report a Bug**](https://github.com/vedant131/VidyaSetu-Bridge-of-Knowledge/issues/new?template=bug_report.md) &nbsp;·&nbsp; [**💡 Suggest a Scheme**](https://github.com/vedant131/VidyaSetu-Bridge-of-Knowledge/issues/new?template=scheme_suggestion.md)
 
 </div>
 
