@@ -1,0 +1,36 @@
+{
+  "name": "vidyasetu",
+  "version": "1.0.0",
+  "description": "AI-powered platform helping Indian students discover government education scholarships",
+  "private": true,
+  "author": "VidyaSetu Contributors",
+  "license": "MIT",
+  "homepage": "https://YOUR_USERNAME.github.io/vidyasetu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/vidyasetu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/vidyasetu/issues"
+  },
+  "keywords": [
+    "scholarship",
+    "india",
+    "education",
+    "government-schemes",
+    "ministry-of-education",
+    "nsp",
+    "aicte",
+    "eligibility",
+    "open-source"
+  ],
+  "scripts": {
+    "start":        "npx serve frontend/src -p 3000",
+    "dev":          "npx serve frontend/src -p 3000",
+    "backend":      "cd backend && node src/server.js",
+    "backend:dev":  "cd backend && npx nodemon src/server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
