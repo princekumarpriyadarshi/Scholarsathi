@@ -5,7 +5,7 @@
 
 // ══ ONBOARDING ══
 const mMeta=[
-  {ico:'👋',h:'Welcome to VidyaSetu!',sub:'A few details so we can find your exact eligible schemes.'},
+  {ico:'👋',h:'Welcome to ScholarSethu!',sub:'A few details so we can find your exact eligible schemes.'},
   {ico:'🗺️',h:'Where are you from?',sub:'Helps find state-specific + Central schemes.'},
   {ico:'🎓',h:'Your education?',sub:'Different levels have different eligible schemes.'},
   {ico:'💰',h:'Family income?',sub:'Many schemes are income-based. Your data stays private.'},

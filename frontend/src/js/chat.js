@@ -7,7 +7,7 @@
 function initChat(){
   const msgs=document.getElementById('chatMsgs'); msgs.innerHTML='';
   const nm=U.name?`, ${U.name.split(' ')[0]}`:'';
-  addAI(`<strong style="font-size:14px;font-family:'Syne',sans-serif">Namaste${nm}! 🙏 I'm VidyaSetu AI</strong>
+  addAI(`<strong style="font-size:14px;font-family:'Syne',sans-serif">Namaste${nm}! 🙏 I'm ScholarSethu AI</strong>
   <div style="margin-top:6px;color:var(--t2);line-height:1.7;font-size:13px">Your personal guide for education schemes. I can find scholarships, explain eligibility, guide applications, and more.</div>
   <div class="cqr">
     <div class="cqb" onclick="sendQ('What scholarships can I apply for?')">🎓 Find my schemes</div>
